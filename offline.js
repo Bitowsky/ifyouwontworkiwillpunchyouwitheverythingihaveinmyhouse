@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1638213911,
+	"version": 1638214831,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -73,6 +73,7 @@
 		"media/firework1.ogg",
 		"media/firework2.ogg",
 		"media/firework3.ogg",
+		"media/explosion.ogg",
 		"media/titlescreen.m4a",
 		"media/titlescreen.ogg",
 		"media/titlescreen2.ogg",
